@@ -4159,7 +4159,7 @@
     }
     class Re {
         constructor() {
-            this.cats = [null, null, null, null, null, null, null, null, null, null, null, null], this.goldAniImg = [], this.tempGold = 0, this.airDropTime = 0, this.airDropMap = {}, this.goldMute = !1, this.freeCat = 0, this.buyAuto = !1, this.isAuto = !0, this.clickAuto = !1, this.showVkittyTip = !0, this.allcats = [null, null, null, null, null, null, null, null, null, null, null, null]
+            this.cats = [null, null, null, null, null, null, null, null, null, null, null, null], this.goldAniImg = [], this.tempGold = 0, this.airDropTime = 0, this.airDropMap = {}, this.goldMute = !1, this.freeCat = 0, this.buyAuto = !1, this.isAuto = true, this.clickAuto = !1, this.showVkittyTip = !0, this.allcats = [null, null, null, null, null, null, null, null, null, null, null, null]
         }
         initCat(t) {
             var e = t.cats;
