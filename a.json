@@ -1,0 +1,134 @@
+{
+    "biz_state_code": 0,
+    "data": {
+        "task_info": [
+            {
+                "category": "basic",
+                "task_config": "{\"desc\":\"Connect X\",\"start_button\":\"connect\",\"verify_button\":\"verify\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=1\"}",
+                "task_id": 1,
+                "task_points": 1000000,
+                "task_status": "start",
+                "task_type": 1
+            },
+            {
+                "category": "basic",
+                "task_config": "{\"desc\":\"Follow Cycle on X\",\"start_button\":\"follow\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://twitter.com/intent/follow?screen_name=cyclenetwork_GO\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=2\",\"Preconditions\":[1]}",
+                "task_id": 2,
+                "task_points": 1000000,
+                "task_status": "start",
+                "task_type": 2
+            },
+            {
+                "category": "basic",
+                "task_config": "{\"desc\":\"Join Cycle Telegram\",\"start_button\":\"join\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://t.me/+qgZQaNPylrcyYjE9\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=3\"}",
+                "task_id": 3,
+                "task_points": 1000000,
+                "task_status": "start",
+                "task_type": 3
+            },
+            {
+                "category": "other",
+                "task_config": "{\"desc\":\"Follow Tapup on X\",\"start_button\":\"follow\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://x.com/tapup_tg\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=6\",\"preconditions\":[1]}",
+                "task_id": 6,
+                "task_points": 100,
+                "task_status": "start",
+                "task_type": 2
+            },
+            {
+                "category": "other",
+                "task_config": "{\"desc\":\"Comment the tweet of @TapUp and tag 3 friends\",\"start_button\":\"comment\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://x.com/tapup_tg/status/1813854379105267841\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=7\",\"preconditions\":[1]}",
+                "task_id": 7,
+                "task_points": 100,
+                "task_status": "start",
+                "task_type": 5
+            },
+            {
+                "category": "berachain",
+                "task_config": "{\"desc\":\"Retweet\",\"start_button\":\"retweet\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://x.com/intent/retweet?tweet_id=1822893399919485398\",\"verify_url\":\"https://points-test-api.cyclenetwork.io/points/task/verify?task_id=16\",\"preconditions\":[1]}",
+                "task_id": 16,
+                "task_points": 100,
+                "task_status": "start",
+                "task_type": 6
+            },
+            {
+                "category": "uxlink",
+                "task_config": "{\"desc\":\"Follow Airdrop2049 on X\",\"start_button\":\"follow\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://x.com/airdrop2049\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=18\",\"preconditions\":[1]}",
+                "task_id": 18,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 2
+            },
+            {
+                "category": "uxlink",
+                "task_config": "{\"desc\":\"Join Airdrop2049 Telegram\",\"start_button\":\"Join\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://t.me/airdrop2049_community\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=19\"}",
+                "task_id": 19,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 6
+            },
+            {
+                "category": "trusta",
+                "task_config": "{\"desc\":\"Follow Trusta on X\",\"start_button\":\"follow\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://x.com/TrustaLabs\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=21\",\"preconditions\":[1]}",
+                "task_id": 21,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 2
+            },
+            {
+                "category": "trusta",
+                "task_config": "{\"desc\":\"Join Trusta Telegram\",\"start_button\":\"Join\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://t.me/TrustalabsAnn\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=22\",\"preconditions\":[3]}",
+                "task_id": 22,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 7
+            },
+            {
+                "category": "trusta",
+                "task_config": "{\"desc\":\"Use Bot for guaranteed rewards (stay at least 10s)\",\"start_button\":\"go\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://t.me/TrustaTONApp_bot/TrustaApp?startapp=cn=cyclenetwork\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=23\"}",
+                "task_id": 23,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 6
+            },
+            {
+                "category": "pumpbtc",
+                "task_config": "{\"desc\":\"Follow PumpBTC on X\",\"start_button\":\"follow\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://x.com/Pumpbtcxyz\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=30\",\"preconditions\":[1]}",
+                "task_id": 30,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 2
+            },
+            {
+                "category": "pumpbtc",
+                "task_config": "{\"desc\":\"Join PumpBTC Discord\",\"start_button\":\"go\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://discord.com/invite/pumpbtc\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=31\"}",
+                "task_id": 31,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 6
+            },
+            {
+                "category": "bouncebit",
+                "task_config": "{\"desc\":\"Follow BounceBit on X\",\"start_button\":\"follow\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://x.com/bounce_bit\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=32\",\"preconditions\":[1]}",
+                "task_id": 32,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 2
+            },
+            {
+                "category": "bouncebit",
+                "task_config": "{\"desc\":\"Join BounceBit Discord\",\"start_button\":\"join\",\"verify_button\":\"verify\",\"third_party_auth_url\":\"https://discord.com/invite/bouncebit\",\"verify_url\":\"https://points-api.cyclenetwork.io/points/task/verify?task_id=33\"}",
+                "task_id": 33,
+                "task_points": 50,
+                "task_status": "start",
+                "task_type": 6
+            }
+        ],
+        "task_partner": {
+            "basic": {
+                "x_url": "https://x.com/cyclenetwork_GO",
+                "tg_url": "https://t.me/+qgZQaNPylrcyYjE9"
+            }
+        }
+    },
+    "message": "success"
+}
